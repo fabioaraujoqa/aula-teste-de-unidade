@@ -1,0 +1,25 @@
+{
+  "name": "aula-teste-de-unidade",
+  "version": "1.0.0",
+  "description": "Aula teste de unidade",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EBAC-QE/aula-teste-de-unidade.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EBAC-QE/aula-teste-de-unidade/issues"
+  },
+  "homepage": "https://github.com/EBAC-QE/aula-teste-de-unidade#readme",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.2.0"
+  }
+}
